@@ -65,7 +65,7 @@ const CarbonCalculator = () => {
             });
             setResult(null);
           }}
-          className="text-gray-600 hover:text-gray-900"
+          className="text-white bg-opacity-0 bg-green-600 hover:text-green-300"
         >
           Reset
         </button>
